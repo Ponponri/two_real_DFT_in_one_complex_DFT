@@ -1,6 +1,4 @@
-# ADSP HW5
-
-## Two Real DFT In One DFT
+# Two Real DFT In One DFT
 f = x + iy 
 
 x = (f+fx)/2 
@@ -16,7 +14,7 @@ Y = (F-Fx)/2i
 pip install numpy argparse matplotlib
 ```
 
-## Run the Code
+## Execute
 ```
 python main.py # default
 ```
